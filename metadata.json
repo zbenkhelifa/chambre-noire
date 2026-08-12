@@ -1,0 +1,6 @@
+{
+  "name": "Évasion Numérique: La Chambre Noire",
+  "description": "Un escape game éducatif pour apprendre les concepts de la photographie numérique (Pixels, RVB, Définition, Filtres) en manipulant du code Python simulé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
